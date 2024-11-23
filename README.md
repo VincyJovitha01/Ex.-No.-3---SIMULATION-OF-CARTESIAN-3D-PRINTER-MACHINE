@@ -49,15 +49,17 @@
 ###   3.	Move the z-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z-axis assembly.
 
 ## OUTPUT
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/3b394ffa-4aea-4e56-a12b-eccab47afee5)
+![image](https://github.com/user-attachments/assets/761f40b4-7f37-45fb-81bd-d9d2ae252a8d)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/cf47ce68-c7b4-4cbc-b57f-ccd68b7bcbb7)
+![image](https://github.com/user-attachments/assets/73b177af-36a9-4dd7-bc8e-26c91fbb47e0)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/803397cb-5685-4bc2-82c2-6b1d1e3a2eec)
+![image](https://github.com/user-attachments/assets/5d749862-a5d6-439e-a9a4-d33e6c7e108d)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/45ac4da8-f236-4e23-b0ce-a77aac6ac8b0)
+![image](https://github.com/user-attachments/assets/2e9062d5-de76-41ab-a026-6f977f1aab01)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
+![image](https://github.com/user-attachments/assets/79d0dbc4-aafc-4e0f-959a-47e116b8a4b5)
+
+![image](https://github.com/user-attachments/assets/7a55ccb1-ed81-4bf0-9444-4be04ed4ceeb)
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/2c2e6e0c-424f-41ad-b915-2ccdd031bdf2)
