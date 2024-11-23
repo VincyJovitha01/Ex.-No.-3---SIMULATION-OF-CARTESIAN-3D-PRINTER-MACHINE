@@ -1,6 +1,5 @@
-# Ex. No.05 - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-
-### DATE: 28.10.2024
+# Ex. No. 5 - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
+### DATE: 
 
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
@@ -48,23 +47,20 @@
 ###   2.	Move the y-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the y-axis assembly.
 ###   3.	Move the z-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z-axis assembly.
 
-## OUTPUT
-![image](https://github.com/user-attachments/assets/761f40b4-7f37-45fb-81bd-d9d2ae252a8d)
 
-![image](https://github.com/user-attachments/assets/73b177af-36a9-4dd7-bc8e-26c91fbb47e0)
+![image](https://github.com/SadhanaShreee/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/144517664/8baed824-a260-47c0-b3eb-c812da2c5864)
 
-![image](https://github.com/user-attachments/assets/5d749862-a5d6-439e-a9a4-d33e6c7e108d)
+![image](https://github.com/SadhanaShreee/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/144517664/40cb2cd0-9be0-4185-9636-87e548cb5354)
 
-![image](https://github.com/user-attachments/assets/2e9062d5-de76-41ab-a026-6f977f1aab01)
+![image](https://github.com/SadhanaShreee/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/144517664/c0767f0f-4910-4e82-8784-181f20d0e31c)
 
-![image](https://github.com/user-attachments/assets/79d0dbc4-aafc-4e0f-959a-47e116b8a4b5)
+![image](https://github.com/SadhanaShreee/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/144517664/a3d3a101-84a4-4b09-b56a-149825918803)
 
-![image](https://github.com/user-attachments/assets/7a55ccb1-ed81-4bf0-9444-4be04ed4ceeb)
+![image](https://github.com/SadhanaShreee/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/144517664/f57bd9d7-4fc2-4f96-829a-0c76709525ad)
 
-## Output:
-![image](https://github.com/user-attachments/assets/2c2e6e0c-424f-41ad-b915-2ccdd031bdf2)
+![image](https://github.com/SadhanaShreee/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/144517664/d471860c-7e66-4241-a76a-fb0701ebd547)
 
-### Name: Vincy Jovitha V
+### Name: VINCY JOVITHA V
 ### Register Number: 212223230242
 
 ## Result: 
