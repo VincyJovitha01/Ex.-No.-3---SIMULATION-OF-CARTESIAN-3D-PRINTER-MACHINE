@@ -58,8 +58,7 @@
 
 ![image](https://github.com/SadhanaShreee/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/144517664/f57bd9d7-4fc2-4f96-829a-0c76709525ad)
 
-![image](https://github.com/SadhanaShreee/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/144517664/d471860c-7e66-4241-a76a-fb0701ebd547)
-
+![op5](https://github.com/user-attachments/assets/63658171-21fa-4990-8cfd-08ba8f00a467)
 ### Name: VINCY JOVITHA V
 ### Register Number: 212223230242
 
